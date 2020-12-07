@@ -1,4 +1,4 @@
-#PROTOCOLO HTTP
+ # PROTOCOLO   
 
 HTTP es el acrónimo de Hypertext Transfer Protocol (en español protocolo de transferencia de hiper texto). 
 HTTPS es igual pero añadiéndole "Seguro". Estos dos protocolos se usan para lo mismo, la transferencia de datos.
